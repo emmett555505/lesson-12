@@ -3,7 +3,7 @@ t.Screen().bgcolor("green")
 t.Screen().setup(300,400)
 polygon = t.Turtle() #defined variable
 
-num_sides = 10 #variable
+num_sides = 4 #variable
 side_lengths = 70
 angle = 360.0 / num_sides
 #iterate loop for total nubmer of sides
